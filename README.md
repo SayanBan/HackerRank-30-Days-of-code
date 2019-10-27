@@ -7,10 +7,10 @@ Here are the solutions to all the HackerRank challenge questions For this series
 ### The following is the list of problem statements and solutions:-
 #
 
-- **Day0**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%200.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%200/helloworld.rb) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day1**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%201.md) [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%201/Data%20Types.rb) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- **Day0**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%200.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%200/helloworld.rb) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day1**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%201.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%201/Data%20Types.rb) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-- **Day2**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%202.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%202/Operators.rb) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day3**: [Question]() [Solutions]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- **Day2**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%202.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%202/Operators.rb) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day3**: [Question]() || [Solutions]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## Contributing
