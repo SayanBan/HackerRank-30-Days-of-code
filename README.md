@@ -21,7 +21,7 @@ Here are the solutions to all the HackerRank challenge questions For this series
 
 ## Contributing
 
-Everyone is welcomed to contribute to this project. You can contribute either by submitting bugs or suggesting improvements by opening an issue on GitHub. please see the [CONTRIBUTING](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/contribution.md) guidelines for more information.
+Everyone is welcomed to contribute to this project. You can contribute either by submitting bugs or suggesting improvements by opening an issue on GitHub. please see the [CONTRIBUTION](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/contribution.md) guidelines for more information.
 
 ## LICENSE
 This project is licensed under the [MIT License](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/LICENSE.md).
