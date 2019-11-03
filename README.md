@@ -19,7 +19,7 @@ Here are the solutions to all the HackerRank challenge questions For this series
 - **Day6**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%206.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%206/Let's%20Review.c) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day7**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%207.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%207/Arrays.c) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-- **Day8**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%208.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%208/Dictionary%20and%20Maps.py) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day9**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%209.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day 9/Factorial Using Recursion.py) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- **Day8**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%208.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%208/Dictionary%20and%20Maps.py) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day9**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%209.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%209/Factorial%20Using%20Recursion.py) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## Contributing
