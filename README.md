@@ -22,6 +22,12 @@ Here are the solutions to all the HackerRank challenge questions For this series
 - **Day8**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%208.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%208/Dictionary%20and%20Maps.py) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day9**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%209.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%209/Factorial%20Using%20Recursion.py) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
+- **Day10**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2010.md) || [Solutions]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day11**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2011.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2011/2D%20Arrays.rb) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+- **Day12**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2012.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2012/Inheritence.rb) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day13**: [Question]() || [Solutions]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 ## Contributing
 
 Everyone is welcomed to contribute to this project. You can contribute either by submitting bugs or suggesting improvements by opening an issue on GitHub. please see the [CONTRIBUTION](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/contribution.md) guidelines for more information.
