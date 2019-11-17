@@ -25,7 +25,11 @@ Here are the solutions to all the HackerRank challenge questions For this series
 - **Day 10**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2010.md) || [Solutions]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day 11**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2011.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2011/2D%20Arrays.rb) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-- **Day 12**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2012.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2012/Inheritence.rb) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day 13**: [Question]() || [Solutions]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- **Day 12**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2012.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2012/Inheritence.rb) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day 13**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2013.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2013/Abstract%20Classes.py) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+- **Day 14**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2014.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2014/Scope.py) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day 15**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2015.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2015/Linked%20List.rb) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
 ## Contributing
