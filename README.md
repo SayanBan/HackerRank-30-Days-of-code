@@ -31,6 +31,9 @@ Here are the solutions to all the HackerRank challenge questions For this series
 - **Day 14**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2014.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2014/Scope.py) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day 15**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2015.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2015/Linked%20List.rb) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
+- **Day 16**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2016.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2016.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day 17**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2017.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2017/More%20exceptions.py) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 ## Contributing
 
