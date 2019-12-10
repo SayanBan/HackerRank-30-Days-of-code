@@ -34,6 +34,24 @@ Here are the solutions to all the HackerRank challenge questions For this series
 - **Day 16**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2016.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2016.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day 17**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2017.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2017/More%20exceptions.py) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
+- **Day 18**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2018.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2018/Queue%20and%20stacks.py) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day 19**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2019.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2019/Interfaces.py) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+- **Day 20**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2020.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2020/Sorting.c) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day 21**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2021.md) || [Solutions]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+- **Day 22**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2022.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2022/Binary%20search%20tree.py) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day 23**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2023.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2023/BST%20Level-Order%20Traversal.py) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+- **Day 24**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2024.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2024/More%20Linked%20List.c) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day 25**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2025.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2025/Running%20Time%20and%20Complexity.c) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+- **Day 26**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2026.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2026/Nested%20Logic.c) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day 27**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2027.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2027/Testing.py) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+- **Day 28**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2028.md) || [Solutions]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day 29**: [Question](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Questions/Day%2029.md) || [Solutions](https://github.com/SayanBan/HackerRank-30-Days-of-code/blob/master/Day%2029/Bitwise%20AND.c) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 ## Contributing
 
